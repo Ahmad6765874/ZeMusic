@@ -18,14 +18,14 @@ from random import  choice, randint
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/41a777f089288f7ad2571.jpg",
+        photo=f"https://telegra.ph/file/d64e882e61268d454c6c0.jpg",
         caption=f"""**ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ . .
- [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱](https://t.me/Source_Ze)**""",
+ [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱](https://t.me/O_U_Q1)**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "المطور", url=f"https://t.me/ELHYBA"), 
+                        "المطور", url=f"https://t.me/O_U_QA"), 
                     
                 
                     InlineKeyboardButton(
@@ -34,7 +34,7 @@ async def huhh(client: Client, message: Message):
                     
                 
                     InlineKeyboardButton(
-                        "‹ السورس ›", url=f"https://t.me/Source_Ze"),
+                        "‹ السورس ›", url=f"https://t.me/O_U_QA"),
                 
         ],
 
